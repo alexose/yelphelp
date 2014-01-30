@@ -1,7 +1,7 @@
 YelpHelp.prototype.init = function(){
 
 	if (!this.options || !this.options.key){
-		throw new Error(no_key);
+		throw new Error(this.errors.no_key);
 	}
 }
 
