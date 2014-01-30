@@ -1,0 +1,3 @@
+YelpHelp.credentials = {
+	key : null // oauth_consumer_key
+}
